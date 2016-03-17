@@ -1,3 +1,27 @@
+commit 2d31b14ea81305933987139cfe20b8969ed15b0c
+Author: JuanRodriguez94 <juan_c7g@hotmail.com>
+Date:   Wed Mar 16 11:10:12 2016 -0700
+
+    Concluciones
+
+commit de19520c6e502f447139c5c35f73e2010951482a
+Author: JuanRodriguez94 <juan_c7g@hotmail.com>
+Date:   Wed Mar 16 11:09:46 2016 -0700
+
+    Lista de casos de uso
+
+commit 8dfe143bbb042c3438282a8c3aedea77ce389ee8
+Author: JuanRodriguez94 <juan_c7g@hotmail.com>
+Date:   Wed Mar 16 11:09:05 2016 -0700
+
+    Requisitos no funcionales
+
+commit 2ef39ab9a9ee54e4e04691c1e1a97aaa4b2d61a5
+Author: JuanRodriguez94 <juan_c7g@hotmail.com>
+Date:   Wed Mar 16 11:08:30 2016 -0700
+
+    Requisitos funcionales
+
 commit 3b9975624186c51767343358b1267174804c0be0
 Author: JuanRodriguez94 <juan_c7g@hotmail.com>
 Date:   Wed Mar 16 11:01:31 2016 -0700
